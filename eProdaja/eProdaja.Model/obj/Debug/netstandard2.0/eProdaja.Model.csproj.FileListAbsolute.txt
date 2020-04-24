@@ -1,0 +1,9 @@
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\bin\Debug\netstandard2.0\eProdaja.Model.deps.json
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\bin\Debug\netstandard2.0\eProdaja.Model.dll
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\bin\Debug\netstandard2.0\eProdaja.Model.pdb
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.csprojAssemblyReference.cache
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.AssemblyInfoInputs.cache
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.AssemblyInfo.cs
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.dll
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.pdb
+C:\Users\Nudžejma\Desktop\eProdaja\eProdaja\eProdaja.Model\obj\Debug\netstandard2.0\eProdaja.Model.csproj.CoreCompileInputs.cache
